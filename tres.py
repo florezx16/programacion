@@ -1,3 +1,8 @@
+"""
+Los datos de entrada contendrán en la primera línea la cuenta total de los pares a procesar.
+Las siguientes contendrán los pares propiamente - un par en cada línea.
+La respuesta debería contener los resultados separados por espacios.
+"""
 num_sumar = int(input("Ingrese los numeros a sumar:"))
 contenido = ([449884,715898],[541785,476785],[977499,397141],[166678,117362],[554100,307752],[548423,310636],[801883,895195],[404362,828397],[660414,486866],[550337,416142],[627714,57750])
 

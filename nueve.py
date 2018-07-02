@@ -1,3 +1,9 @@
+"""
+Los Datos de entrada contendrán el número de casos en la primera línea.
+Luego sigue el número especificado de líneas, cada uno representando un caso de prueba.
+Las líneas consisten únicamente de letras minúsculas latinas y espacios.
+La Respuesta debería contener los números de vocales de cada línea, separados por espacios.
+"""
 cadenas = ["jlmrwegnasczvzfj pectvfqwezyh qwgdncjoxj  hq  y jfu",
 "bhoymafatux  mkv hfhn etnfpipshx jiskj flrlzfo",
 "zkb eumaqxp nhcmprpjcec qoyqgbmgrtswwgw f hzuqlrjbbrglgiml",

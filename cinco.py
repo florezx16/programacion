@@ -1,3 +1,7 @@
+"""
+Los Datos de entrada contendrán en la primera línea el número de tríos a evaluar.
+Cada una de las líneas siguientes contendrá un trío. La Respuesta debería contener los mínimos que seleccionaste de los tríos, separados por espacios.
+"""
 num_sumar = int(input("Ingrese los numeros a sumar:"))
 contenido = ([-9496305,-1885469,6555269],[-5048531,-6919407,-9534702],[-3711993,-3107958,-2060270],[-127218,6541950,-2740578],[7068215,-3619805,4818474],[1168184,5570539,-1141420],
 [9947997,-2948260,-5067533],[6381760,9888792,-2547747],[2925634,-958293,9731340],[-2418599,3244973,2218678],[5755617,3748668,-9666790],[2310886,8700136,-6586198],[2776184,-5011856,305844],
